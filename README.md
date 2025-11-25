@@ -60,7 +60,7 @@
 ## 📝 Consumer-Centric Content Marketing
 | Blog | Focus Area | Key Insights & Engagement | Link |
 |------|-----------|-------------------------|------|
-| Blog 1 | Personalised nutrition for students | Students prefer quick, time-efficient meals; emphasised **AI-driven meal solutions** | [https://group5wbsmarketing.wixsite.com/bytefuel/post/unlocking-healthy-habits-how-easy-meal-deliveries-can-transform-student-fitness](#) |
+| Blog 1 | Personalised nutrition for students | Students prefer quick, time-efficient meals; emphasised **AI-driven meal solutions** | [https://group5wbsmarketing.wixsite.com/bytefuel/post/unlocking-healthy-habits-how-easy-meal-deliveries-can-transform-student-fitness] |
 | Blog 2 | Emotional connection via pop culture | Storytelling increases relatability & attention; drives **repeat engagement** | [https://group5wbsmarketing.wixsite.com/bytefuel/post/from-central-perk-to-healthy-habits-ranking-top-10-sitcom-snacks-their-smart-swaps](#) |
 | Blog 3 | Micronutrients’ role in performance | Users respond to scientific, credible info; **data-backed educational content** | [https://group5wbsmarketing.wixsite.com/bytefuel/post/more-than-just-calories-the-groundbreaking-discovery-that-changed-nutrition-forever-eijkman-s-stor](#) |
 | Blog 4 | Debunking hydration myths | Identified common misconceptions; **problem-solution framing** | [https://group5wbsmarketing.wixsite.com/bytefuel/post/more-isn-t-always-better-the-hidden-danger-of-over-hydration-and-electrolyte-balance](#) |
