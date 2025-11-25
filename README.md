@@ -60,12 +60,12 @@
 ## 📝 Consumer-Centric Content Marketing
 | Blog | Focus Area | Key Insights & Engagement | Link |
 |------|-----------|-------------------------|------|
-| Blog 1 | Personalised nutrition for students | Students prefer quick, time-efficient meals; emphasised **AI-driven meal solutions** | [https://group5wbsmarketing.wixsite.com/bytefuel/post/unlocking-healthy-habits-how-easy-meal-deliveries-can-transform-student-fitness] |
-| Blog 2 | Emotional connection via pop culture | Storytelling increases relatability & attention; drives **repeat engagement** | [https://group5wbsmarketing.wixsite.com/bytefuel/post/from-central-perk-to-healthy-habits-ranking-top-10-sitcom-snacks-their-smart-swaps](#) |
-| Blog 3 | Micronutrients’ role in performance | Users respond to scientific, credible info; **data-backed educational content** | [https://group5wbsmarketing.wixsite.com/bytefuel/post/more-than-just-calories-the-groundbreaking-discovery-that-changed-nutrition-forever-eijkman-s-stor](#) |
-| Blog 4 | Debunking hydration myths | Identified common misconceptions; **problem-solution framing** | [https://group5wbsmarketing.wixsite.com/bytefuel/post/more-isn-t-always-better-the-hidden-danger-of-over-hydration-and-electrolyte-balance](#) |
-| Blog 5 | Celebrity diet insights | Leveraged curiosity & social proof; **content performance tracked by clicks & shares** |[https://group5wbsmarketing.wixsite.com/bytefuel/post/inside-infamous-celebrity-diets](#) |
-| Blog 6 (Instagram) | Weird diets & quick hacks | Visual content drives **higher engagement**; supports brand awareness | [https://www.instagram.com/p/DKep3DfMzcU/?img_index=1](#) |
+| Blog 1 | Personalised nutrition for students | Students prefer quick, time-efficient meals; emphasised **AI-driven meal solutions** |[Read Blog 1](https://group5wbsmarketing.wixsite.com/bytefuel/post/unlocking-healthy-habits-how-easy-meal-deliveries-can-transform-student-fitness)|
+| Blog 2 | Emotional connection via pop culture | Storytelling increases relatability & attention; drives **repeat engagement** | [Read Blog 2](https://group5wbsmarketing.wixsite.com/bytefuel/post/from-central-perk-to-healthy-habits-ranking-top-10-sitcom-snacks-their-smart-swaps)|
+| Blog 3 | Micronutrients’ role in performance | Users respond to scientific, credible info; **data-backed educational content** |[Read Blog 3](https://group5wbsmarketing.wixsite.com/bytefuel/post/more-than-just-calories-the-groundbreaking-discovery-that-changed-nutrition-forever-eijkman-s-stor)|
+| Blog 4 | Debunking hydration myths | Identified common misconceptions; **problem-solution framing** | [Read Blog 4](https://group5wbsmarketing.wixsite.com/bytefuel/post/more-isn-t-always-better-the-hidden-danger-of-over-hydration-and-electrolyte-balance)|
+| Blog 5 | Celebrity diet insights | Leveraged curiosity & social proof; **content performance tracked by clicks & shares** |[Read Blog 5](https://group5wbsmarketing.wixsite.com/bytefuel/post/inside-infamous-celebrity-diets)|
+| Blog 6 (Instagram) | Weird diets & quick hacks | Visual content drives **higher engagement**; supports brand awareness |[Read Blog 6](https://www.instagram.com/p/DKep3DfMzcU/?img_index=1) |
 
 **Key Analytical Takeaways:**  
 - Engagement increases with **storytelling & relatable content**  
