@@ -110,8 +110,8 @@
 
 | File | Description | Link |
 |------|-------------|------|
-| Report | Detailed analysis of ByteFuel’s digital marketing strategy, blog content, and consumer engagement | [View Report](Reports/ByteFuel_Report.pdf) |
-| Presentation | Group presentation summarizing website strategy, target audience, and marketing plan | [View Presentation](Presentation/ByteFuel_Presentation.pdf) |
+| Report | Detailed analysis of ByteFuel’s digital marketing strategy, blog content, and consumer engagement | [View Report](Report/IB961B_5594410.pdf) |
+| Presentation | Group presentation summarizing website strategy, target audience, and marketing plan | [View Presentation](Presentation/Group_5_BYTEFUEL_PPT.pdf) |
 
 
 ---
